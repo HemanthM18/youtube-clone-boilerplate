@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    
+}
+#logo{
+    height: 30px;
+    color: #ffffff;
+}
+.search{
+    
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+#bar{
+    padding: 10px;
+    width: 500px;
+    background-color: black;
+    border: 1px solid rgb(57, 56, 56);
+    cursor: pointer;
+}
+#search-button{
+    padding: 10px 20px;
+    background-color: rgb(57, 56, 56);
+    border: 1px solid rgb(57, 56, 56);
+}
+#search-img{
+    height: 20px;
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    color: white;
+}
+.video1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.video2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.video3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.videos img{
+    max-width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
