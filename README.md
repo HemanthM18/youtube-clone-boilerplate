@@ -1,6 +1,6 @@
 # youtube-clone-boilerplate
 ## Here is the expected output
-![](https://github.com/Kalvium-Program/youtube-clone-boilerplate/blob/main/assets/Youtube%20Home%20Page.png?raw=true)
+![](http://127.0.0.1:5500/index.html)
 
 
 Fork this repo and get started with the cloning project.
